@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Insertion_Sort_Graph.png
+/Merge_Sort_Graph.png

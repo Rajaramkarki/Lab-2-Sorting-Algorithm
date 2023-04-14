@@ -3,7 +3,7 @@ using SortingAlgorithms;
 namespace SortingTests
 {
     [TestClass]
-    public class SearchTest
+    public class SortTest
     {
         [TestMethod]
         public void test_Insertion_Sort()
